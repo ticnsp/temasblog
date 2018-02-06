@@ -1,0 +1,20 @@
+---
+- id: latestPosts
+  translation: "Temas recientes"
+
+- id: blogHeading
+  translation: "Temas"
+
+- id: pageNotFound
+  translation: "Lo sentimos, esta página no existe."
+
+- id: visitHomePage
+  translation: "Ir al inicio"
+
+- id: readingTime
+  translation:
+    one: "Un minuto de lectura"
+    other: "{{ .Count }} minutos de lectura"
+
+- id: backToPosts
+  translation: "Regresar a temas"
