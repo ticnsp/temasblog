@@ -11,7 +11,7 @@ First, install hugo on your system, follow the [Getting Started](https://gohugo.
 Clone this repo:
 
 ```bash
-$ git clone https://github.com/ticnsp/ticnsptemas
+$ git clone https://github.com/ticnsp/temasblog
 ```
 
 And you are done! To compile run the hugo command:
