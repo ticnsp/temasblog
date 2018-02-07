@@ -92,4 +92,16 @@ El proyecto de Dios se realiza entre la Concepción y Pentecostés y María estu
 
 La Santísima Trinidad es el misterio central de nuestra fe. No confesamos tres dioses, sino sólo Uno en tres Personas: el Padre, el Hijo y el Espíritu Santo. Los tres son un sólo Dios y reciben una misma adoración y gloria pero son distintos entre sí. La Santísima Trinidad es amor, y cada una de las Personas de la Santísima Trinidad me ama de una forma particular y me invita a amar así a los demás. El Papa nos invita a hacer personal esta experiencia del amor de Dios como San Pablo y vivir en alegría y ser santos. Para lograrlo podemos tomar el ejemplo de María Santísima y su cercanía con la Trinidad y podemos pedirle que interceda por nosotros y nos ayude a ser tan cercanos a la Trinidad como ella.
 
+# Referencias
 
+Caro, E. M. (2007). Podcast de la semana: El amor Trinitario. Evangelización Activa: [https://www.evangelizacion.org.mx/podcast/index.php?ref=ADn70S8w4vT80OyVNc44bPgd98qU6o](https://www.evangelizacion.org.mx/podcast/index.php?ref=ADn70S8w4vT80OyVNc44bPgd98qU6o)
+
+Caro, E. M. (2011). María y la Trinidad. Evangelización Activa: [http://www.evangelizacion.org.mx/biblioteca/index.php?i=cjh63gqrdngdyuakxw2i8](http://www.evangelizacion.org.mx/biblioteca/index.php?i=cjh63gqrdngdyuakxw2i8)
+
+Caro, E. M. (2012). Podcast de la semana: Dios es familia. Evangelización Activa: [https://www.evangelizacion.org.mx/podcast/index.php?ref=cv9qzt32fyd48iwmz0uai17](https://www.evangelizacion.org.mx/podcast/index.php?ref=cv9qzt32fyd48iwmz0uai17)
+
+De Juana, A. (2017). El Papa en fiesta de la Santísima Trinidad: Dios es amor que redime y da vida. Aciprensa: https://www.aciprensa.com/noticias/el-papa-en-fiesta-de-santisima-trinidad-dios-es-todo-y-solo-amor-que-redime-18325
+
+Papa Francisco. (2017). Ángelus - Solemnidad de la Santísima Trinidad. https://w2.vatican.va/content/francesco/es/angelus/2017/documents/papa-francesco_angelus_20170611.html
+
+Vatican.va (2018). Catecismo de la Iglesia Católica. http://www.vatican.va/archive/catechism_sp/index_sp.html
