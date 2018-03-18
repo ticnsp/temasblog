@@ -45,7 +45,7 @@ La Biblia se compone en dos partes las cuales son Antiguo y Nuevo Testamento.
 -	El Nuevo Testamento nos habla acerca de lo que Jesús dijo e hizo. Había la necesidad de expresar la fe en que Él resucito de entre los muertos.
 -	A partir de Jesús, de su llamado a sus discípulos, surgió la Iglesia.
 -	Nos habla de Jesús y de la comunidad de quienes creen en Él. 
--	El Nuevo Testamento está conformado primero que nada por los 4 “Evangelios” (san Mateo, san Marcos, san Lucas y san Juan). De estos seguimos con el libro de los “Hechos de los Apóstoles” (encontrado dentro de los evangelios); posteriormente vienen las “Cartas” de algunos de los apóstoles que piden y promueven la edificación de la Iglesia así como testimonios de fe que muestran que la Palabra de Dios movió a las primeras comunidades. Finalmente se encuentra el “Apocalipsis” de san Juan que amplía la mirada hacia “un cielo nuevo y una tierra nueva” (Ap 21,1).
+-	El Nuevo Testamento está conformado primeramente por los 4 “Evangelios” (san Mateo, san Marcos, san Lucas y san Juan). De estos seguimos con el libro de los “Hechos de los Apóstoles” (encontrado dentro de los evangelios); posteriormente vienen las “Cartas” de algunos de los apóstoles que piden y promueven la edificación de la Iglesia así como testimonios de fe que muestran que la Palabra de Dios movió a las primeras comunidades. Finalmente se encuentra el “Apocalipsis” de san Juan que amplía la mirada hacia “un cielo nuevo y una tierra nueva” (Ap 21,1).
 
 ## Consejos para leer la Biblia
 
@@ -53,7 +53,7 @@ Imagínate llegando a una biblioteca como esa y empezando a leer el primer libro
 
 Hay personas que abren la Biblia desde el principio y empiezan a leer a partir del Génesis. En general, no pasan del quinto libro debido a que no se consigue entender la Biblia.
 
-Para que no nos pase esto es necesario tener un Plan de lectura, es decir, determinar por dónde deseamos empezar. Mi recomendación es empezar a leer primero que nada a partir de los 4 Evangelios y posteriormente todos los libros del Nuevo Testamento porque la primera necesidad de un cristiano es tener la certeza de su salvación, de que Dios le ama y lo ha elegido.
+Para que no nos pase esto es necesario tener un Plan de lectura, es decir, determinar por dónde deseamos empezar. Mi recomendación es empezar a leer primeramente a partir de los 4 Evangelios y posteriormente todos los libros del Nuevo Testamento porque la primera necesidad de un cristiano es tener la certeza de su salvación, de que Dios le ama y lo ha elegido.
 
 Al momento de leer ahora el Antiguo Testamento lo debemos hacer desde orden cronológico: desde los orígenes has la venida de Cristo. 
 
@@ -61,7 +61,7 @@ Sin importar el Plan de lectura que llevemos a cabo mi recomendación es leer to
 
 La Biblia está escrita para nosotros. Se puede leer y hacer que la Palabra de Dios se convierta en la palabra de nuestras vidas. Las siguientes 10 reglas nos pueden ayudar a leer la Biblia de una mejor manera.
 
-> Oración recomendada: Salmo 119, 115
+> Oración recomendada: Salmo 119, 105
 
 <ol>
 <li>Hacer oración (pedirle a Dios y al Espíritu Santo que nos dé entendimiento y sabiduría para entender su Palabra).</li>
