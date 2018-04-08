@@ -64,15 +64,18 @@ El tema anterior a este, que nos dio Karen, fue sobre la explicación de la Bibl
 1. 1 Corintios 7, 29-31 – Nos demuestra que el tiempo es corto, refiriéndose que Jesús está por venir en cualquier momento. Nos enseña que hay que vivir nuestro día a día conforme a las escrituras. Nos enseña que hay que vivir una vida digna, una vida moralmente cristiana.
 2. ¿Cómo vivir el Evangelio día a día?
   2. "Acercarse al Evangelio, meditarlo y encarnarlo en la vida cotidiana es la mejor manera para conocer a Jesús y llevarlo a los otros”. – Papa Francisco
-  2. TIPS PARA VIVIR EL EVANGELIO
-    1. Obras de misericordia corporales y espirituales
-    2. Recibir los Sacramentos constantemente – Eucaristía, Reconciliación, etc.
-    3. Dar testimonio vivo – familia, escuela, trabajo, etc.
-    4. Amor y Esperanza: cambiar la mirada a una mirada de amor y esperanza, pidiéndole a María que nos enseñe a mirar con sus ojos. Ser capaz de ver la salvación 
-    5. Convertirnos a la belleza: poner la mirada fija en Cristo y vivir seducidos por su belleza, descentrándonos de nosotros mismos – no dejar que nuestros problemas influencien en la gracia de Dios 
-    6. Vivir el hoy, el presente: las tentaciones nos guían a desenfocarnos del presente, preocupándonos constantemente sobre el pasado o futuro
-    7. Creer que la Cruz es el árbol de la vida: La cruz es el instrumento de nuestra salvación, es el testimonio eterno que Cristo nos deja.
-    8. Conocer mi lugar en la Iglesia: soy un servidor de Cristo, mi deber está en llevar la Buena Nueva a todos aquellos que la necesitan y no pueden obtenerla de una manera fácil.
+
+## TIPS PARA VIVIR EL EVANGELIO
+1. Obras de misericordia corporales y espirituales
+2. Recibir los Sacramentos constantemente – Eucaristía, Reconciliación, etc.
+3. Dar testimonio vivo – familia, escuela, trabajo, etc.
+4. Amor y Esperanza: cambiar la mirada a una mirada de amor y esperanza, pidiéndole a María que nos enseñe a mirar con sus ojos. Ser capaz de ver la salvación 
+5. Convertirnos a la belleza: poner la mirada fija en Cristo y vivir seducidos por su belleza, descentrándonos de nosotros mismos – no dejar que nuestros problemas influencien en la gracia de Dios 
+6. Vivir el hoy, el presente: las tentaciones nos guían a desenfocarnos del presente, preocupándonos constantemente sobre el pasado o futuro
+7. Creer que la Cruz es el árbol de la vida: La cruz es el instrumento de nuestra salvación, es el testimonio eterno que Cristo nos deja.
+8. Conocer mi lugar en la Iglesia: soy un servidor de Cristo, mi deber está en llevar la Buena Nueva a todos aquellos que la necesitan y no pueden obtenerla de una manera fácil.
+
+![La Palabra 1](/img/la_palabra_1.png)
 
 # PUNTO CUATRO. MARIA COMO EJEMPLO PARA HACER VIDA LA PALABRA
 
