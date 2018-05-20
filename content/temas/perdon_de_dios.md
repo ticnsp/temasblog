@@ -11,7 +11,7 @@ El perdón nos hace levantarnos y emprender un nuevo camino. Nos reconcilia con 
 
 No es fácil perdonar sin condiciones. Cuando ponemos condiciones para perdonar, puede ser que nunca perdonemos del todo. No puedo decidir que desaparezca el recuerdo. Pero puedo decidir cómo voy a actuar, cómo voy a tratar a quien Dios pone en mi camino de nuevo, cómo voy a confiar en él aunque una vez me haya fallado. No es fácil, pero es el camino de la paz y de la unidad.
 
-## Como es el perdon de Dios?
+## ¿Cómo es el perdon de Dios?
 
 “!No existe pecado que Dios no pueda perdonar!, !ninguno!, somos ministros de la reoconciliacion por pura gracia de Dios, gratuitamente y por amor, por Misericordia” -Papa Francisco
 
