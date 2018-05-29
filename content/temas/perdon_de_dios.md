@@ -4,7 +4,6 @@ date: 2018-05-20T10:00:27-06:00
 draft: true
 ---
 
-# Perdón de Dios
 “El perdón es una fuerza que resucita a una vida nueva e infunde el valor para mirar el futuro con esperanza”- Papa Francisco
 
 El perdón nos hace levantarnos y emprender un nuevo camino. Nos reconcilia con la vida, con el mundo, con nosotros mismos. Nos da luz, hace más liviana la carga.
