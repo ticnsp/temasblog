@@ -19,7 +19,6 @@ phases:
       - hugo version
   build:
     commands:
-      - mkdir content # hugo needs this
       - hugo --config=${hugo_config}
       - cd public && aws s3 sync . s3://${s3_output} --delete --acl public-read
       - aws cloudfront create-invalidation --distribution-id ${distribution_id} --paths /
