@@ -1,5 +1,5 @@
 ---
-title: "Santisima Trinidad"
+title: "Santísima Trinidad"
 date: 2018-02-03T22:11:41-07:00
 draft: false
 ---
