@@ -4,7 +4,7 @@ env:
   variables:
     s3_output: "temas.ticnsp.org"
     hugo_version: "0.55.6"
-    hugo_config: "production.config.toml"
+    hugo_config: "config.production.toml"
   parameter-store:
     distribution_id: "temas.ticnsp.org-distributionId"
 
