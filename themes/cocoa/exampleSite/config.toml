@@ -1,61 +1,60 @@
-baseurl             = "https://localhost:1313/"
-DefaultContentLanguage = "es"
-builddrafts         = true
+baseurl             = "https://you.github.io/"
+builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
-languageCode        = "es"
+languageCode        = "en-US"
 layoutdir           = "layouts"
 publishdir          = "public"
 theme               = "cocoa"
-author              = "TICNSP"
-title               = "TICNSP"
+author              = "Arthur Dent"
+title               = "Arthur Dent"
 pygmentsuseclasses  = true
-# disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
+disqusshortname     = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
 googleAnalytics     = "UA-123-45"
 
 [permalinks]
-blog  = "temas/:slug/"
+blog  = "blog/:slug/"
 
 [[menu.main]]
-name                   = "Temas"
+name                   = "Blog"
 weight                 = -120
 identifier             = "blog"
-url                    = "/temas/"
+url                    = "/blog/"
 
 [[menu.main]]
-name                   = "Acerca de"
+name                   = "About"
 weight                 = -110
 identifier             = "about"
 url                    = "/about/"
 
 [[menu.main]]
-name                   = "Contacto"
+name                   = "Code"
 weight                 = -100
-identifier             = "contact"
-url                    = "/contact/"
+identifier             = "code"
+url                    = "/code/"
 
 [params]
 include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
 latestpostscount       = 5                             # how many posts to display on the home page
 i18n_flags             = false                         # whether to display small country flags for available translations
-author                 = "Talleres Infantiles Católicos"
+author                 = "Arthur Dent"
 cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
 dateform               = "Jan 2, 2006"
 dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
-description            = "Blog de temas de TIC"
-email                  = "temas@ticnsp.org"
+description            = "Don't panic"
+email                  = "you@example.space"
 extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
 faviconfile            = "img/leaf.ico"
-github                 = "//github.com/ticnsp"
-instagram              = "//instagram.com/tic.nsp"
-# px500                  = "//500px.com/username"
-lang                   = "es"
-# linkedin               = "//linkedin.com/in/you"
+github                 = "//github.com/you"
+instagram              = "//instagram.com/you"
+px500                  = "//500px.com/username"
+lang                   = "en"
+linkedin               = "//linkedin.com/in/you"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "temas.ticnsp.org | temas de tic" # appears in the site header when set to a non-empty string
-twitter                = "//twitter.com/ticnsp"
-# mastodon               = "//example.com/@you"
+selfintro              = ""                            # appears in the site header when set to a non-empty string
+twitter                = "//twitter.com/you"
+mastodon               = "//example.com/@you"
 
 highlightjs            = true
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
@@ -73,7 +72,7 @@ gitalk_repo            = "your repo url"
 gitalk_owner           = "the owner of this repo"
 gitalk_admin           = ['a', 'list', 'of', 'administrator']
 
-avatar                 = "img/ticnsp.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+avatar                 = "img/profile.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
 # gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
 
 # The following are DEPRECATED.

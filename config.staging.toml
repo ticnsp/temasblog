@@ -1,4 +1,4 @@
-baseurl             = "https://localhost:1313/"
+baseurl             = "https://staging.temas.ticnsp.org"
 DefaultContentLanguage = "es"
 builddrafts         = true
 canonifyurls        = true

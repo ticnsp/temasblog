@@ -1,0 +1,26 @@
+version: 0.2
+
+env:
+  variables:
+    s3_output: "staging.temas.ticnsp.org"
+    hugo_version: "0.55.6"
+    hugo_config: "config.staging.toml"
+  parameter-store:
+    distribution_id: "staging.temas.ticnsp.org-distributionId"
+
+phases:
+  install:
+    runtime-versions:
+      golang: 1.12
+    commands:
+      - wget "https://github.com/gohugoio/hugo/releases/download/v${hugo_version}/hugo_${hugo_version}_Linux-64bit.deb"
+      - dpkg -i hugo_${hugo_version}_Linux-64bit.deb
+    finally:
+      - hugo version
+  build:
+    commands:
+      - hugo --config=${hugo_config}
+      - cd public && aws s3 sync . s3://${s3_output} --delete --acl public-read
+      - aws cloudfront create-invalidation --distribution-id ${distribution_id} --paths /
+    finally:
+      - echo "Script finished running"
